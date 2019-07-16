@@ -700,7 +700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncInterval: 0.1
-  numOperationsPerFrame: 1000
+  numOperationsPerFrame: 3000
 --- !u!114 &1464638911
 MonoBehaviour:
   m_ObjectHideFlags: 0
